@@ -1,0 +1,1046 @@
+[
+    {
+      "title": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "year": 1954,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif",
+      "link": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+    },
+    {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/05/Littleprince.JPG",
+      "link": "https://en.wikipedia.org/wiki/The_Little_Prince"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "year": 1997,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "year": 1937,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Hobbit"
+    },
+    {
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "year": 1939,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/4/4a/And_Then_There_Were_None_First_Edition_Cover_1939.jpg",
+      "link": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+    },
+    {
+      "title": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "year": 1791,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hongloumeng2.jpg",
+      "link": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+    },
+    {
+      "title": "The Lion, the Witch and the Wardrobe",
+      "author": "C. S. Lewis",
+      "year": 1950,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/86/TheLionWitchWardrobe%281stEd%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe"
+    },
+    {
+      "title": "She: A History of Adventure",
+      "author": "H. Rider Haggard",
+      "year": 1887,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SHE%2C_A_History_of_Adventure_%281st_Edition_Cover%29%2C_by_H._Rider_Haggard.jpg",
+      "link": "https://en.wikipedia.org/wiki/She:_A_History_of_Adventure"
+    },
+    {
+      "title": "The Adventures of Pinocchio",
+      "author": "Carlo Collodi",
+      "year": 1883,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pinocchio.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "year": 2003,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J. K. Rowling",
+      "year": 1998,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J. K. Rowling",
+      "year": 1999,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/Harry_Potter_and_the_Prisoner_of_Azkaban.jpg",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J. K. Rowling",
+      "year": 2000,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b6/Harry_Potter_and_the_Goblet_of_Fire_cover.png",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J. K. Rowling",
+      "year": 2003,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix"
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "author": "J. K. Rowling",
+      "year": 2005,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b5/Harry_Potter_and_the_Half-Blood_Prince_cover.png",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows",
+      "author": "J. K. Rowling",
+      "year": 2007,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/TheAlchemist.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Alchemist_(novel)"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J. D. Salinger",
+      "year": 1951,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "year": 1937,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e9/Think_and_grow_rich_original_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Think_and_Grow_Rich"
+    },
+    {
+      "title": "The Bridges of Madison County",
+      "author": "Robert James Waller",
+      "year": 1992,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/c/c8/BridgesOfMadisonCounty.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County"
+    },
+    {
+      "title": "You Can Heal Your Life",
+      "author": "Louise Hay",
+      "year": 1984,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/0f/You_Can_Heal_Your_Life.jpg",
+      "link": "https://en.wikipedia.org/wiki/You_Can_Heal_Your_Life"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "year": 1967,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/Cien_a%C3%B1os_de_soledad_%28book_cover%2C_1967%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "year": 1955,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lolita_1955.JPG/220px-Lolita_1955.JPG",
+      "link": "https://en.wikipedia.org/wiki/Lolita"
+    },
+    {
+      "title": "Heidi's Years of Learning and Travel",
+      "author": "Johanna Spyri",
+      "year": 1881,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Spyri_Heidi_Cover_1887.jpg/220px-Spyri_Heidi_Cover_1887.jpg",
+      "link": "https://en.wikipedia.org/wiki/Heidi"
+    },
+    {
+      "title": "The Common Sense Book of Baby and Child Care",
+      "author": "Dr. Benjamin Spock",
+      "year": 1946,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Common_Sense_Book_of_Baby_and_Child_Care_%28hardcover%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care"
+    },
+    {
+      "title": "Anne of Green Gables",
+      "author": "Lucy Maud Montgomery",
+      "year": 1908,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Montgomery_Anne_of_Green_Gables.jpg/220px-Montgomery_Anne_of_Green_Gables.jpg",
+      "link": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables"
+    },
+    {
+      "title": "Black Beauty",
+      "author": "Anna Sewell",
+      "year": 1877,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BlackBeautyCoverFirstEd1877.jpeg/220px-BlackBeautyCoverFirstEd1877.jpeg",
+      "link": "https://en.wikipedia.org/wiki/Black_Beauty"
+    },
+    {
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "year": 1980,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/eb/The_Name_of_the_Rose.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+    },
+    {
+      "title": "The Eagle Has Landed",
+      "author": "Jack Higgins",
+      "year": 1975,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/TheEagleHasLanded.jpg/220px-TheEagleHasLanded.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed_(novel)"
+    },
+    {
+      "title": "Watership Down",
+      "author": "Richard Adams",
+      "year": 1972,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Richard_Adams_WatershipDown.jpg/220px-Richard_Adams_WatershipDown.jpg",
+      "link": "https://en.wikipedia.org/wiki/Watership_Down"
+    },
+    {
+      "title": "The Hite Report",
+      "author": "Shere Hite",
+      "year": 1976,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266458158l/44462.jpg",
+      "link": "https://www.goodreads.com/book/show/44462.The_Hite_Report"
+    },
+    {
+      "title": "Charlotte's Web",
+      "author": "E.B. White; illustrated by Garth Williams",
+      "year": 1952,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/CharlotteWeb.png/220px-CharlotteWeb.png",
+      "link": "https://en.wikipedia.org/wiki/Charlotte%27s_Web"
+    },
+    {
+      "title": "The Ginger Man",
+      "author": "J. P. Donleavy",
+      "year": 1955,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/GingerMan.JPG/220px-GingerMan.JPG",
+      "link": "https://en.wikipedia.org/wiki/The_Ginger_Man"
+    },
+    {
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "year": 1902,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Peter_Rabbit_first_edition_1902a.jpg/220px-Peter_Rabbit_first_edition_1902a.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit"
+    },
+    {
+      "title": "Jonathan Livingston Seagull",
+      "author": "Richard Bach",
+      "year": 1970,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Johnathan_Livingston_Seagull.jpg/220px-Johnathan_Livingston_Seagull.jpg",
+      "link": "https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull"
+    },
+    {
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "year": 1969,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/HungryCaterpillar.JPG/220px-HungryCaterpillar.JPG",
+      "link": "https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar"
+    },
+    {
+      "title": "A Message to Garcia",
+      "author": "Elbert Hubbard",
+      "year": 1899,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/An_early_reprint_of_%22A_Message_to_Garcia%22.jpg/220px-An_early_reprint_of_%22A_Message_to_Garcia%22.jpg",
+      "link": "https://en.wikipedia.org/wiki/A_Message_to_Garcia"
+    },
+    {
+      "title": "Sophie's World",
+      "author": "Jostein Gaarder",
+      "year": 1991,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Sofies_verden.jpg/220px-Sofies_verden.jpg",
+      "link": "https://en.wikipedia.org/wiki/Sophie%27s_World"
+    },
+    {
+      "title": "Flowers in the Attic",
+      "author": "V. C. Andrews",
+      "year": 1979,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Dollanganger01_FlowersInTheAttic.jpg/200px-Dollanganger01_FlowersInTheAttic.jpg",
+      "link": "https://en.wikipedia.org/wiki/Flowers_in_the_Attic"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/220px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+    },
+    {
+      "title": "Angels & Demons",
+      "author": "Dan Brown",
+      "year": 2000,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/AngelsAndDemons.jpg/220px-AngelsAndDemons.jpg",
+      "link": "https://en.wikipedia.org/wiki/Angels_%26_Demons"
+    },
+    {
+      "title": "Kane and Abel",
+      "author": "Jeffrey Archer",
+      "year": 1979,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/f/f3/KaneAndAbel.jpg",
+      "link": "https://en.wikipedia.org/wiki/Kane_and_Abel_(novel)"
+    },
+    {
+      "title": "How the Steel Was Tempered",
+      "author": "Nikolai Ostrovsky",
+      "year": 1936,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/7/74/How_the_Steel_Was_Tempered_%28novel%29_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/How_the_Steel_Was_Tempered#:~:text=How%20the%20Steel%20Was%20Tempered%20(Russian%3A%20%D0%9A%D0%B0%D0%BA%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C%20%D1%81%D1%82%D0%B0%D0%BB%D1%8C%2C,selling%20books%20of%20all%20time."
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "year": 1869,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg/220px-Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg",
+      "link": "https://en.wikipedia.org/wiki/War_and_Peace"
+    },
+    {
+      "title": "The Diary of Anne Frank",
+      "author": "Anne Frank",
+      "year": 1952,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Het_Achterhuis_%28Diary_of_Anne_Frank%29_-_front_cover%2C_first_edition.jpg/220px-Het_Achterhuis_%28Diary_of_Anne_Frank%29_-_front_cover%2C_first_edition.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl"
+    },
+    {
+      "title": "Your Erroneous Zones",
+      "author": "Wayne Dyer",
+      "year": 1976,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Your_Erroneous_Zones.jpg/220px-Your_Erroneous_Zones.jpg",
+      "link": "https://en.wikipedia.org/wiki/Your_Erroneous_Zones"
+    },
+    {
+      "title": "The Purpose Driven Life",
+      "author": "Rick Warren",
+      "year": 2002,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/2/25/Pupose.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Purpose_Driven_Life"
+    },
+    {
+      "title": "The Thorn Birds",
+      "author": "Colleen McCullough",
+      "year": 1977,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/53/Thorn_Birds-Colleen_McCullough.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Thorn_Birds"
+    },
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "year": 2003,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Kite_runner.jpg/220px-Kite_runner.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Kite_Runner"
+    },
+    {
+      "title": "Valley of the Dolls",
+      "author": "Jacqueline Susann",
+      "year": 1966,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/85/Valley_of_the_dolls_novel_first_edition_1966.jpg",
+      "link": "https://en.wikipedia.org/wiki/Valley_of_the_Dolls_(novel)"
+    },
+    {
+      "title": "The Lost Symbol",
+      "author": "Dan Brown",
+      "year": 2009,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/07/LostSymbol.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Lost_Symbol"
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year": 1936,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Gone_with_the_Wind_cover.jpg/220px-Gone_with_the_Wind_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "year": 1949,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/1984first.jpg/220px-1984first.jpg",
+      "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+    },
+    {
+      "title": "The Revolt of Mamie Stover",
+      "author": "William Bradford Huie",
+      "year": 1951,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/TheRevoltofMamieStoverpaperback.JPG/220px-TheRevoltofMamieStoverpaperback.JPG",
+      "link": "https://en.wikipedia.org/wiki/The_Revolt_of_Mamie_Stover"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "year": 2005,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Thegirlwiththedragontattoo.jpg/220px-Thegirlwiththedragontattoo.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "year": 2008,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Hunger_Games"
+    },
+    {
+      "title": "The Young Guard",
+      "author": "Alexander Alexandrovich Fadeyev",
+      "year": 1946,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347510464i/634376._UY400_SS400_.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Young_Guard_(novel)"
+    },
+    {
+      "title": "Who Moved My Cheese?",
+      "author": "Spencer Johnson",
+      "year": 1998,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/WhoMovedMyCheeseCover.jpg/220px-WhoMovedMyCheeseCover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/220px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "year": 1908,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a4/Wind_in_the_willows.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "year": 1989,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/The_7_Habits_of_Highly_Effective_People.jpg/220px-The_7_Habits_of_Highly_Effective_People.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"
+    },
+    {
+      "title": "Virgin Soil Upturned",
+      "author": "Mikhail Sholokhov",
+      "year": 1932,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323724715l/78038.jpg",
+      "link": "https://www.goodreads.com/book/show/78038.Virgin_Soil_Upturned_Book_1"
+    },
+    {
+      "title": "The Celestine Prophecy",
+      "author": "James Redfield",
+      "year": 1993,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Thecelestineprophecy.jpg/220px-Thecelestineprophecy.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Celestine_Prophecy"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "year": 2012,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Fault_in_Our_Stars.jpg/200px-The_Fault_in_Our_Stars.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "title": "The Shack",
+      "author": "William P. Young",
+      "year": 2007,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Shackover.jpg/220px-Shackover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Shack"
+    },
+    {
+      "title": "Uncle Styopa",
+      "author": "Sergey Mikhalkov",
+      "year": 1935,
+      "cover": "https://cdn.shopify.com/s/files/1/1031/5867/products/Dziadiya_Styepa_-_Michalkov_1024x1024.jpg?v=1456343628",
+      "link": "https://en.wikipedia.org/wiki/Uncle_Styopa"
+    },
+    {
+      "title": "The Godfather",
+      "author": "Mario Puzo",
+      "year": 1969,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Godfather-Novel-Cover.png/175px-Godfather-Novel-Cover.png",
+      "link": "https://en.wikipedia.org/wiki/The_Godfather_(novel)"
+    },
+    {
+      "title": "Love Story",
+      "author": "Erich Segal",
+      "year": 1970,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/d1/Love_Story_%28Erich_Segal_novel%29_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Love_Story_(novel)"
+    },
+    {
+      "title": "Catching Fire",
+      "author": "Suzanne Collins",
+      "year": 2009,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Catching_Fire_%28Suzanne_Collins_novel_-_cover_art%29.jpg/220px-Catching_Fire_%28Suzanne_Collins_novel_-_cover_art%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/Catching_Fire"
+    },
+    {
+      "title": "Mockingjay",
+      "author": "Suzanne Collins",
+      "year": 2010,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Mockingjay.JPG/220px-Mockingjay.JPG",
+      "link": "https://en.wikipedia.org/wiki/Mockingjay"
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "year": 2012,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Gone_Girl_%28Flynn_novel%29.jpg/220px-Gone_Girl_%28Flynn_novel%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/Gone_Girl_(novel)"
+    },
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "year": 2015,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/The_Girl_On_The_Train_%28US_cover_2015%29.png/220px-The_Girl_On_The_Train_%28US_cover_2015%29.png",
+      "link": "https://en.wikipedia.org/wiki/The_Girl_on_the_Train_(novel)"
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "author": "Erich Maria Remarque",
+      "year": 1929,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Remarque_Im_Westen_nichts_Neues_1929.jpg/220px-Remarque_Im_Westen_nichts_Neues_1929.jpg",
+      "link": "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front"
+    },
+    {
+      "title": "The Bermuda Triangle",
+      "author": "Charles Berlitz",
+      "year": 1974,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Charles_Berlitz_-_The_Bermuda_Triangle_-_1977_Panther_paperback_book_cover.jpg/220px-Charles_Berlitz_-_The_Bermuda_Triangle_-_1977_Panther_paperback_book_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Bermuda_Triangle_(book)"
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "year": 1958,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/ThingsFallApart.jpg/220px-ThingsFallApart.jpg",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "year": 1945,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/220px-Animal_Farm_-_1st_edition.jpg",
+      "link": "https://en.wikipedia.org/wiki/Animal_Farm"
+    },
+    {
+      "title": "Wolf Totem",
+      "author": "Jiang Rong",
+      "year": 2004,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/WolfTotem.jpg/220px-WolfTotem.jpg",
+      "link": "https://en.wikipedia.org/wiki/Wolf_Totem"
+    },
+    {
+      "title": "The Happy Hooker: My Own Story",
+      "author": "Xaviera Hollander",
+      "year": 1971,
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/91iB2MRwvlL.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Happy_Hooker"
+    },
+    {
+      "title": "Jaws",
+      "author": "Peter Benchley",
+      "year": 1974,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jaws_%281974%29_front_cover%2C_first_edition.jpg",
+      "link": "https://en.wikipedia.org/wiki/Jaws_(novel)"
+    },
+    {
+      "title": "Love You Forever",
+      "author": "Robert Munsch",
+      "year": 1986,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/LoveYouForever.png/220px-LoveYouForever.png",
+      "link": "https://en.wikipedia.org/wiki/Love_You_Forever"
+    },
+    {
+      "title": "The Women's Room",
+      "author": "Marilyn French",
+      "year": 1977,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/3/37/Marilyn_French_-_The_Women%27s_Room.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Women%27s_Room"
+    },
+    {
+      "title": "What to Expect When You're Expecting",
+      "author": "Arlene Eisenberg",
+      "year": 1969,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422168854l/1066535.jpg",
+      "link": "https://www.goodreads.com/book/show/1066535.What_to_Expect_When_You_re_Expecting"
+    },
+    {
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "year": 1884,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Huckleberry_Finn_book.JPG/220px-Huckleberry_Finn_book.JPG",
+      "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+    },
+    {
+      "title": "The Secret Diary of Adrian Mole, Aged 13¾",
+      "author": "Sue Townsend",
+      "year": 1982,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/TheSecretDiaryOfAdrianMole.jpg/220px-TheSecretDiaryOfAdrianMole.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole,_Aged_13%C2%BE#:~:text=The%20Secret%20Diary%20of%20Adrian%20Mole%2C%20Aged%2013%C2%BE%20is%20the,himself%20to%20be%20an%20intellectual."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/220px-PrideAndPrejudiceTitlePage.jpg",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+    },
+    {
+      "title": "Kon-Tiki: Across the Pacific in a Raft",
+      "author": "Thor Heyerdahl",
+      "year": 1948,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/TheKonTikiExpedition.jpg/220px-TheKonTikiExpedition.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Kon-Tiki_Expedition:_By_Raft_Across_the_South_Seas"
+    },
+    {
+      "title": "The Good Soldier Švejk",
+      "author": "Jaroslav Hašek",
+      "year": 1921,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schwejk_dt_Erstausgabe.jpg/220px-Schwejk_dt_Erstausgabe.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk"
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "year": 1963,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Where_The_Wild_Things_Are_%28book%29_cover.jpg/250px-Where_The_Wild_Things_Are_%28book%29_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are"
+    },
+    {
+      "title": "The Power of Positive Thinking",
+      "author": "Norman Vincent Peale",
+      "year": 1952,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/The_Power_of_Positive_Thinking_%28Norman_Vincent_Peale%29.png/220px-The_Power_of_Positive_Thinking_%28Norman_Vincent_Peale%29.png",
+      "link": "https://en.wikipedia.org/wiki/The_Power_of_Positive_Thinking"
+    },
+    {
+      "title": "The Secret",
+      "author": "Rhonda Byrne",
+      "year": 2006,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/TheSecretLogo.jpg/220px-TheSecretLogo.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Secret_(Byrne_book)"
+    },
+    {
+      "title": "Fear of Flying",
+      "author": "Erica Jong",
+      "year": 1973,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Fear_of_Flying_%28novel%29_1st_ed_cover.jpg/220px-Fear_of_Flying_%28novel%29_1st_ed_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Fear_of_Flying_(novel)"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg/220px-Dune-Frank_Herbert_%281965%29_First_edition.jpg",
+      "link": "https://en.wikipedia.org/wiki/Dune_(novel)"
+    },
+    {
+      "title": "Charlie and the Chocolate Factory",
+      "author": "Roald Dahl",
+      "year": 1964,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Charlie_and_the_Chocolate_Factory_original_cover.jpg/220px-Charlie_and_the_Chocolate_Factory_original_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory"
+    },
+    {
+      "title": "The Naked Ape",
+      "author": "Desmond Morris",
+      "year": 1967,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/Nakedape.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Naked_Ape"
+    },
+    {
+      "title": "Totto-chan, the Little Girl at the Window",
+      "author": "Tetsuko Kuroyanagi",
+      "year": 1981,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Totto-chan.png/220px-Totto-chan.png",
+      "link": "https://en.wikipedia.org/wiki/Totto-Chan:_The_Little_Girl_at_the_Window"
+    },
+    {
+      "title": "The Horse Whisperer",
+      "author": "Nicholas Evans",
+      "year": 1995,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/The_Horse_Whisperer_book_cover.jpg/220px-The_Horse_Whisperer_book_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Horse_Whisperer_(novel)"
+    },
+    {
+      "title": "Goodnight Moon",
+      "author": "Margaret Wise Brown",
+      "year": 1947,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Goodnightmoon.jpg/300px-Goodnightmoon.jpg",
+      "link": "https://en.wikipedia.org/wiki/Goodnight_Moon"
+    },
+    {
+      "title": "The Neverending Story",
+      "author": "Michael Ende",
+      "year": 1979,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Die_unendliche_Geschichte.jpg/200px-Die_unendliche_Geschichte.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Neverending_Story"
+    },
+    {
+      "title": "The Outsiders",
+      "author": "S. E. Hinton",
+      "year": 1967,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/The_outsiders_1967_first_edition.jpg/220px-The_outsiders_1967_first_edition.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Outsiders_(novel)"
+    },
+    {
+      "title": "Guess How Much I Love You",
+      "author": "Sam McBratney",
+      "year": 1994,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Guess_How_Much_I_Love_You_Cover_Art.jpg/250px-Guess_How_Much_I_Love_You_Cover_Art.jpg",
+      "link": "https://en.wikipedia.org/wiki/Guess_How_Much_I_Love_You"
+    },
+    {
+      "title": "Shōgun",
+      "author": "James Clavell",
+      "year": 1975,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Shogun.jpg/220px-Shogun.jpg",
+      "link": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(novel)"
+    },
+    {
+      "title": "The Poky Little Puppy",
+      "author": "Janette Sebring Lowrey",
+      "year": 1942,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/3/3f/Pokylittlepuppy.JPG",
+      "link": "https://en.wikipedia.org/wiki/The_Poky_Little_Puppy"
+    },
+    {
+      "title": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "year": 1989,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PillarsOfTheEarth.jpg/220px-PillarsOfTheEarth.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth"
+    },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "year": 1936,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/How-to-win-friends-and-influence-people.jpg/220px-How-to-win-friends-and-influence-people.jpg",
+      "link": "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People"
+    },
+    {
+      "title": "Perfume",
+      "author": "Patrick Süskind",
+      "year": 1985,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/PerfumeSuskind.jpg/220px-PerfumeSuskind.jpg",
+      "link": "https://en.wikipedia.org/wiki/Perfume_(novel)"
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year": 1939,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Grapes_of_Wrath_%281939_1st_ed_cover%29.jpg/220px-The_Grapes_of_Wrath_%281939_1st_ed_cover%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+    },
+    {
+      "title": "The Shadow of the Wind",
+      "author": "Carlos Ruiz Zafón",
+      "year": 2001,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/84/TheShadowOfTheWind.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Shadow_of_the_Wind"
+    },
+    {
+      "title": "Interpreter of Maladies",
+      "author": "Jhumpa Lahiri",
+      "year": 1999,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/5f/Interpreterofmaladiescover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Interpreter_of_Maladies"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year": 1985,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy"
+    },
+    {
+      "title": "Tuesdays with Morrie",
+      "author": "Mitch Albom",
+      "year": 1997,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Tuesdays_with_Morrie_book_cover.jpg/220px-Tuesdays_with_Morrie_book_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Tuesdays_with_Morrie"
+    },
+    {
+      "title": "God's Little Acre",
+      "author": "Erskine Caldwell",
+      "year": 1933,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/GodsLittleAcre.JPG/220px-GodsLittleAcre.JPG",
+      "link": "https://en.wikipedia.org/wiki/God%27s_Little_Acre"
+    },
+    {
+      "title": "Follow Your Heart",
+      "author": "Susanna Tamaro",
+      "year": 1994,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403169769l/38913.jpg",
+      "link": "https://www.goodreads.com/book/show/38913.Follow_Your_Heart"
+    },
+    {
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "year": 1962,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/WrinkleInTimePBA1.jpg/220px-WrinkleInTimePBA1.jpg",
+      "link": "https://en.wikipedia.org/wiki/A_Wrinkle_in_Time"
+    },
+    {
+      "title": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "year": 1995,
+      "cover": "https://developmenteducation.ie/wp-content/uploads/2017/02/deved_1319140857.jpg",
+      "link": "https://simple.wikipedia.org/wiki/Long_Walk_to_Freedom"
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "year": 1952,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/7/73/Oldmansea.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+    },
+    {
+      "title": "Life After Life",
+      "author": "Raymond Moody",
+      "year": 1975,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Life_After_Life_%28Moody_book%29.jpg/220px-Life_After_Life_%28Moody_book%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/Life_After_Life_(Moody_book)"
+    },
+    {
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "year": 2012,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Me_Before_You.jpg/220px-Me_Before_You.jpg",
+      "link": "https://en.wikipedia.org/wiki/Me_Before_You"
+    },
+    {
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami",
+      "year": 1987,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/NorwegianWood.jpg/250px-NorwegianWood.jpg",
+      "link": "https://en.wikipedia.org/wiki/Norwegian_Wood_(novel)"
+    },
+    {
+      "title": "Peyton Place",
+      "author": "Grace Metalious",
+      "year": 1956,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Peyton_Place_first_edition_cover.jpg/220px-Peyton_Place_first_edition_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Peyton_Place_(novel)"
+    },
+    {
+      "title": "The Plague",
+      "author": "Albert Camus",
+      "year": 1947,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/La_Peste_book_cover.jpg/220px-La_Peste_book_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Plague_(novel)"
+    },
+    {
+      "title": "No Longer Human",
+      "author": "Osamu Dazai",
+      "year": 1948,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Ningen_shikkaku_%28Dazai_Osamu%29.png/220px-Ningen_shikkaku_%28Dazai_Osamu%29.png",
+      "link": "https://en.wikipedia.org/wiki/No_Longer_Human"
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor Frankl",
+      "year": 1946,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Trotzdem_Ja_zum_Leben_sagen_%28Viktor_Frankl_novel%29_cover.jpg/220px-Trotzdem_Ja_zum_Leben_sagen_%28Viktor_Frankl_novel%29_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning"
+    },
+    {
+      "title": "Divine Comedy",
+      "author": "Dante Alighieri",
+      "year": 1472,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Alighieri_-_Divina_Commedia%2C_Nel_mille_quatro_cento_septe_et_due_nel_quarto_mese_adi_cinque_et_sei_-_2384293_id00022000_Scan00006.jpg/220px-Alighieri_-_Divina_Commedia%2C_Nel_mille_quatro_cento_septe_et_due_nel_quarto_mese_adi_cinque_et_sei_-_2384293_id00022000_Scan00006.jpg",
+      "link": "https://simple.wikipedia.org/wiki/The_Divine_Comedy"
+    },
+    {
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "year": 1923,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_Prophet_%28Gibran%29.jpg/220px-The_Prophet_%28Gibran%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Prophet_(book)"
+    },
+    {
+      "title": "The Exorcist",
+      "author": "William Peter Blatty",
+      "year": 1971,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Exorcist_1971.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Exorcist_(novel)"
+    },
+    {
+      "title": "The Gruffalo",
+      "author": "Julia Donaldson",
+      "year": 1999,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fairuse_Gruffalo.jpg/200px-Fairuse_Gruffalo.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Gruffalo"
+    },
+    {
+      "title": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "year": 1957,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/The_Cat_in_the_Hat.png/220px-The_Cat_in_the_Hat.png",
+      "link": "https://en.wikipedia.org/wiki/The_Cat_in_the_Hat"
+    },
+    {
+      "title": "Diana: Her True Story",
+      "author": "Andrew Morton",
+      "year": 2004,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348114454l/908053.jpg",
+      "link": "https://www.goodreads.com/book/show/908053.Diana"
+    },
+    {
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "year": 2009,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Thehelpbookcover.jpg/220px-Thehelpbookcover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Help"
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "year": 1961,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Catch22.jpg/220px-Catch22.jpg",
+      "link": "https://en.wikipedia.org/wiki/Catch-22"
+    },
+    {
+      "title": "L'Étranger (The Stranger (Camus novel))",
+      "author": "Albert Camus",
+      "year": 1942,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/9/97/L%27%C3%89tranger_-_Albert_Camus.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)"
+    },
+    {
+      "title": "Eye of the Needle",
+      "author": "Ken Follett",
+      "year": 1978,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/StormIsland-EyeOfTheNeedle.jpg/220px-StormIsland-EyeOfTheNeedle.jpg",
+      "link": "https://en.wikipedia.org/wiki/Eye_of_the_Needle_(novel)"
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "year": 1988,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/BriefHistoryTime.jpg/220px-BriefHistoryTime.jpg",
+      "link": "https://en.wikipedia.org/wiki/A_Brief_History_of_Time"
+    },
+    {
+      "title": "The Lovely Bones",
+      "author": "Alice Sebold",
+      "year": 2002,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Lovely_Bones_cover.jpg/220px-Lovely_Bones_cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Lovely_Bones"
+    },
+    {
+      "title": "Wild Swans",
+      "author": "Jung Chang",
+      "year": 1991,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/c/ce/Wild_Swans.jpg",
+      "link": "https://en.wikipedia.org/wiki/Wild_Swans"
+    },
+    {
+      "title": "Santa Evita",
+      "author": "Tomás Eloy Martínez",
+      "year": 1995,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Santa_Evita_Book_Cover.jpg/220px-Santa_Evita_Book_Cover.jpg",
+      "link": "https://en.wikipedia.org/wiki/Santa_Evita"
+    },
+    {
+      "title": "Night",
+      "author": "Elie Wiesel",
+      "year": 1960,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/NightWiesel.jpg/180px-NightWiesel.jpg",
+      "link": "https://en.wikipedia.org/wiki/Night_(book)"
+    },
+    {
+      "title": "Confucius from the Heart",
+      "author": "Yu Dan",
+      "year": 2006,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602342689l/54578642.jpg",
+      "link": "https://www.goodreads.com/book/show/54578642-confucius-from-the-heart"
+    },
+    {
+      "title": "The Total Woman",
+      "author": "Marabel Morgan",
+      "year": 1973,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387668782l/868671.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Total_Woman"
+    },
+    {
+      "title": "Knowledge-value Revolution",
+      "author": "Taichi Sakaiya",
+      "year": 1991,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267343320l/2883207.jpg",
+      "link": "https://www.goodreads.com/book/show/2883207-knowledge-value-revolution"
+    },
+    {
+      "title": "Problems in China's Socialist Economy",
+      "author": "Xue Muqiao",
+      "year": 1981,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266907079l/4723208.jpg",
+      "link": "https://www.goodreads.com/book/show/4723208-china-s-socialist-economy"
+    },
+    {
+      "title": "What Color is Your Parachute?",
+      "author": "Richard Nelson Bolles",
+      "year": 1970,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/What_Color_is_Your_Parachute.jpg/220px-What_Color_is_Your_Parachute.jpg",
+      "link": "https://en.wikipedia.org/wiki/What_Color_Is_Your_Parachute%3F"
+    },
+    {
+      "title": "The Dukan Diet",
+      "author": "Pierre Dukan",
+      "year": 2000,
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/41XVxSRd9sL._SX310_BO1,204,203,200_.jpg",
+      "link": "https://en.wikipedia.org/wiki/Dukan_Diet"
+    },
+    {
+      "title": "The Joy of Sex",
+      "author": "Alex Comfort",
+      "year": 1972,
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Joy_of_Sex%2C_first_edition.jpg/220px-The_Joy_of_Sex%2C_first_edition.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Joy_of_Sex"
+    },
+    {
+      "title": "The Gospel According to Peanuts",
+      "author": "Robert L. Short",
+      "year": 1965,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/The_Gospel_According_to_Peanuts_%28book_cover%29.jpg/220px-The_Gospel_According_to_Peanuts_%28book_cover%29.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Gospel_According_to_Peanuts#:~:text=The%20Gospel%20According%20to%20Peanuts%20is%20a%201965%20book%20written,lectures%20about%20the%20Christian%20Gospel."
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "year": 2001,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Life_of_Pi_cover.png/220px-Life_of_Pi_cover.png",
+      "link": "https://en.wikipedia.org/wiki/Life_of_Pi"
+    },
+    {
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "year": 1993,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/The_Giver_first_edition_1993.jpg/220px-The_Giver_first_edition_1993.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Giver"
+    },
+    {
+      "title": "The Front Runner",
+      "author": "Patricia Nell Warren",
+      "year": 1974,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Front_Runner_first_edition_front_cover.png",
+      "link": "https://en.wikipedia.org/wiki/The_Front_Runner_(novel)"
+    },
+    {
+      "title": "The Goal",
+      "author": "Eliyahu M. Goldratt",
+      "year": 1984,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/The-goal-bookcover.jpg/220px-The-goal-bookcover.jpg",
+      "link": "https://en.wikipedia.org/wiki/The_Goal_(novel)"
+    }
+  ]
+  
